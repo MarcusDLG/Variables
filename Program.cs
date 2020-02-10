@@ -62,7 +62,7 @@ namespace Variables
       Console.WriteLine("The product of of your numbers after division is " + quotient);
       Console.WriteLine("The product after multiplying your numbers is " + product);
       Console.WriteLine("The remainder after dividing your numbers is " + remainder);
-
+      //Move all of your logic to separate file and Call it from the Main method
     }
   }
 }
